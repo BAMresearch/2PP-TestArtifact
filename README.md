@@ -35,9 +35,11 @@ The following features are integrated in the current version of the test artifac
 
 ## How to cite?
 
-This work is currently available as pre-print here:
+This work is currently available as preprint here:
 
 Please cite this work as:
+
+After peer-review this part will be changed.
 
 ## Further ideas for optimization:
 
