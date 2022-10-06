@@ -6,7 +6,7 @@ Test artifacts can be used to compare structures, to check options used by the s
 General ideas behind the test artifact:
 
 * optimized for 2PP-DLW
-* should be fast and easy to analyse, preferably with optical microscopy or non-tilted scanning electron microscopy
+* should be fast and easy to analyse with optical microscopy or scanning electron microscopy without tilt.
 * short time to fabricate
 * include a reasonable amount of different features
 * bulk and small structures on the substrate
@@ -15,7 +15,7 @@ General ideas behind the test artifact:
 
 The model of the test artifact can be downloaded as [.STL-file](https://github.com/BAMresearch/2PP-TestArtifact/blob/main/Test%20artifact.stl) or [.3mf-file](https://github.com/BAMresearch/2PP-TestArtifact/blob/main/Test%20artifact.3mf) from this repository. 
 
-*Please note that the files marked in Millimeters and have to be scaled according to your usage.*
+*Please note that the length are defined in Millimeters and have to be scaled according to your usage.*
 
 
 ## Features of the test artifact
@@ -32,7 +32,7 @@ The following features are integrated in the current version of the test artifac
 | 3  | Z spacing  | estimation of free space in Z direction |
 | 4  | Rods | reproducability of geometric shapes |
 | 5  | Cones  | shutter properties |
-| 6  | Immersion indicator  | immersion depzh of TA  |
+| 6  | Immersion indicator  | immersion depth of TA  |
 | 7  | Holes  | reproducability of geometric shapes |
 | 8  | Thin Walls  | reproducability of geometric shapes  |
 | 9  | Staircase Control  | staircase effect in different angles |
