@@ -1,8 +1,7 @@
-# 2PP-TestArtifact
-Contains a 2PP-test artifact
+# 2PP-Test Artifact
 
-This repository contains a test artifact (TA) or test structure designed for two-photon polymerization (also known as Direct Laser Writing (DLW) or Two/Multi-photon lithography (2PA/MPA)).
-Test artifacts can be used to compare structures, to check options used by the slicer, check the state of the 2PP machine itself or to get an construction guidelines.
+This repository contains a test artifact (TA), also called test structure, designed for two-photon polymerization (also known as Direct Laser Writing (DLW) or Two/Multi-photon lithography (2PA/MPA)).
+Test artifacts can be used to compare structures, to check options used by the slicer, check the state of the 2PP machine itself or to get a construction guidelines for a certain combination of power, velocity and settings.
 
 General ideas behind the test artifact:
 
