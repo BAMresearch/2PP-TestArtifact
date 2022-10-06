@@ -11,6 +11,13 @@ General ideas behind the test artifact:
 * include a reasonable amount of different features
 * bulk and small structures on the substrate
 
+## 3D model of Test Artifact:
+
+The model of the test artifact can be downloaded as [.STL-file](https://github.com/BAMresearch/2PP-TestArtifact/blob/main/Test%20artifact.stl) or [.3mf-file](https://github.com/BAMresearch/2PP-TestArtifact/blob/main/Test%20artifact.3mf) from this repository. 
+
+*Please note that the files marked in Millimeters and have to be scaled according to your usage.*
+
+
 ## Features of the test artifact
 
 <img src="FeatureOverview.png" width="500">
@@ -44,3 +51,4 @@ After peer-review this part will be changed.
 ## Further ideas for optimization:
 
 * independent individual features so they can be fabricated alone
+* include a complex structure
