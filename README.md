@@ -42,9 +42,12 @@ The following features are integrated in the current version of the test artifac
 
 ## How to cite?
 
-This work is currently available as preprint here:
+This work is currently available as preprint here: https://www.preprints.org/manuscript/202210.0259/v1
 
 Please cite this work as:
+
+> Fritzsche, S.; Pauw, B.R.; Weimann, C.; Sturm, H. First of its Kind: A Test Artifact for Direct Laser Writing. Preprints 2022, 2022100259 (doi: 10.20944/preprints202210.0259.v1).
+
 
 After peer-review this part will be changed.
 
